@@ -1,4 +1,4 @@
-# shell-farm README
+# shell-farm
 General information about the shell-farm organization.
 
 Where blltt grows and shares shells.
